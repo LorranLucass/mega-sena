@@ -5,7 +5,9 @@ export default function Imagem() {
     <>
     <div className={style.div}>
 
-    <img src="https://lotericasbr.com.br/wp-content/uploads/2022/11/mega-sena-lotericasbr.jpg" className={style.imagem}></img>
+    <img src="https://fdr.com.br/wp-content/uploads/2020/07/megasena-loteria-1024x576.png" className={style.imagem}></img>
+    </div>
+    <div>
     <h1 className={style.h1}>Números Premiados:</h1>
     </div>
     </>
